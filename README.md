@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+You may call me Camotoy.
+
+Currently investing my free time in Minecraft protocol work. *Very* familiar with Java, but I have experience with Python, C#, and some JavaScript.
 
 <!--
 **DoctorMacc/DoctorMacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
