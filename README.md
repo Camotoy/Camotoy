@@ -25,7 +25,11 @@ Look here if you're interested in my work and don't want to go through my forks!
   
 I have a Discord server that can be found at https://discord.gg/jNNC4CZtsN that contains support channels for all my plugins. Geyser support should be handled on its own Discord.
 
+Profile picture is by [Dartty](https://www.deviantart.com/dartty/art/Kanaya-364815353).
+
 <!--
+Well hello you special little source snooper. :eyes:
+
 **DoctorMacc/DoctorMacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
