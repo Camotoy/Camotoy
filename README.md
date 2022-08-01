@@ -15,7 +15,7 @@ Look here if you're interested in my work and don't want to go through my forks!
 - [GeyserSkinManager](https://github.com/Camotoy/GeyserSkinManager)
   - Plugin addon for Geyser plugin editions to allow skins to show to Java players. 
   
-  And some older projects that I've given control to others...
+And some older projects that I've given control to others...
   
 - [floodgate-skript](https://github.com/Camotoy/floodgate-skript)
   - Skript plugin for use with the [Skript](https://github.com/SkriptLang/Skript) scripting language and [Floodgate](https://github.com/GeyserMC/Floodgate/) Spigot plugin.
